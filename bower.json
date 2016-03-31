@@ -1,0 +1,13 @@
+{
+  "name": "evalUI",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "dimple": "^2.2.0"
+  }
+}
